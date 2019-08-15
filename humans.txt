@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Armando Apolinar armandoapolinar02@gmail.com @apolinar92
 
 # THANKS
 
