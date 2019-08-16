@@ -5,7 +5,7 @@ Adding a line for Rebasing example, then more changes from myfeature branch too.
 Redoing this since i forgot.
 more changes now
 
-## NOTHING
+## Introduction
 
 this is example is to show different parts of the Git repository and various commands using a web project.
 
