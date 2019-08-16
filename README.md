@@ -4,7 +4,7 @@ This is a simple website project for showing how to use Git and Github together.
 Adding a line for Rebasing example, then more changes from myfeature branch too.
 Redoing this since i forgot.
 more changes now
-
+Updating for emergency fix after stash. 
 ## Introduction
 
 this is example is to show different parts of the Git repository and various commands using a web project.
